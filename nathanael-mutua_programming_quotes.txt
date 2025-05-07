@@ -1,3 +1,7 @@
+1. "Hello World!"
+Author: Tradition (First appeared in Brian Kernighan & Dennis Ritchie's 1972 C programming book)
+Why it’s cheesy: The universal first line of code for beginners.
+
 2. "Real programmers count from 0."
 Author: Steve McConnell ("Code Complete")
 Why it’s cheesy: A nod to zero-based indexing struggles.
