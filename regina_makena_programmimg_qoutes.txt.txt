@@ -1,0 +1,39 @@
+1. Sometimes it is better to leave something alone, to pause, and that's very true of programming - Joyce Wheeler
+
+2. Testing leads to failure, and failure leads to understanding. - Burt Rutan
+
+3. The best error message is the one that never shows up. - Thomas Fuchs
+
+4. First, solve the problem. Then, write the code. – John Johnson
+
+5. Java is to JavaScript what car is to Carpet. – Chris Heilmann
+
+6. Make it work, make it right, make it fast. – Kent Beck
+
+7. Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+8. Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
+9. If the code doesn't bother you, don't bother it. - Anonymous
+
+10. Software is like sex: it's better when it's free. - Linus Thorvalds
+
+11.  It's not a bug - it's an undocumented feature. - Anonymous
+
+12. Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+
+13. You can’t have great software without a great team, and most software teams behave like dysfunctional families. - Jim McCarthy
+
+14. A C program is like a fast dance on a newly waxed dance floor by people carrying razors. - Waldi Ravens.
+
+15. When I wrote this code, only God and I understood what I did. Now only God knows. – Anonymous
+
+16. You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
+
+17. There is always one more bug to fix. – Ellen Ullman
+
+18. Computers are fast; developers keep them slow. – Anonymous
+
+19. If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
+
+20. Quality is a product of a conflict between programmers and testers. ― Yegor Bugayenk
