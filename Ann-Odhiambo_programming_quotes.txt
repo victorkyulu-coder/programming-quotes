@@ -1,0 +1,39 @@
+1.Coding like poetry should be short and concise. ― Santosh Kalwar
+
+2.Make it work, make it right, make it fast. – Kent Beck
+
+3.Of course, bad code can be cleaned up. But it’s very expensive. — Robert C. Martin
+
+4.Confusion is part of programming. ― Felienne Hermans
+
+5.Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
+
+6.No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray
+
+7.Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is the winning ― Rick Cook
+
+8.Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
+
+9.Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
+
+10.Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
+11.Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+
+12.The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+
+13.In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them. - Andrew Hunt
+
+14.The best error message is the one that never shows up. - Thomas Fuchs
+
+15.The most damaging phrase in the language is.. it's always been done this way - Grace HopperSometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
+
+16.Optimism is an occupational hazard of programming: feedback is the treatment.- Kent Beck
+
+17.Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupery
+
+18.The code you write makes you a programmer.The code you delete makes you a good one . The code you do not have to write makes you a great one.-Mario Fusco
+
+19.Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+20.The more I study, the more insatiable do I feel my genius for it to be. – Ada Lovelace
