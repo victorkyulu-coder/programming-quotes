@@ -1,0 +1,39 @@
+1.Code is like humor. When you have to explain it, it’s bad - Cory House
+
+2.Experience is the name everyone gives to their mistakes – Oscar Wilde
+
+3.Programming is learned by writing programs ― Brian Kernighan
+
+4.Computers are fast; developers keep them slow – Anonymous
+
+5.Know how to learn. Then, want to learn - Katherine Johnson 
+
+6.Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems - Jamie Zawinski
+
+7.Programming isn’t about what you know; it’s about what you can figure out – Chris Pine
+
+8.Code is read much more often than it is written - Guido Van Rossum
+
+9.Any fool can write code that a computer can understand. Good programmers write code that humans can understand – Martin Fowler
+
+10.The function of good software is to make the complex appear to be simple – Grady Booch
+
+11.Optimism is an occupational hazard of programming. Feedback is the treatment - Kent Beck
+
+12.You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
+
+13.If debugging is the process of removing bugs, then programming must be the process of putting them in. – Sam Redwine
+
+14.Computer Science is no more about computers than astronomy is about telescopes - E. W. Dijkstra
+
+15.To iterate is human, to recurse divine - L. Peter Deutsch
+
+16.Java is to JavaScript what car is to Carpet – Chris Heilmann
+
+17.Before software can be reusable it first has to be usable – Ralph Johnson
+
+18.Enlightenment is the unprogrammed state - Jed McKenna
+
+19.A good programmer is someone who always looks both ways before crossing a one-way street — Doug Linder
+
+20.Coding like poetry should be short and concise - Santosh Kalwar
