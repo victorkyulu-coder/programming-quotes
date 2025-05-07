@@ -1,0 +1,39 @@
+1.Software is like sex: it’s better when it’s free. – Linus Torvalds
+
+2.If we want users to like our software, we should design it to behave like a likable person. – Alan Cooper
+
+3.Quality is a product of a conflict between programmers and testers. ― Yegor Bugayenk
+
+4.Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
+
+5.I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12. – Elon Musk
+
+6.Software and cathedrals are much the same — first we build them, then we pray.
+
+7.Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it? ― Olawale Daniel
+
+8.Coding like poetry should be short and concise. ― Santosh Kalwar
+
+9.It’s not a bug; it’s an undocumented feature. ― Anonymous
+
+10.First, solve the problem. Then, write the code. – John Johnson
+
+11.Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+12.Make it work, make it right, make it fast. – Kent Beck
+
+13.Clean code always looks like it was written by someone who cares. — Robert C. Martin
+
+14.Of course, bad code can be cleaned up. But it’s very expensive. — Robert C. Martin
+
+15.Software comes from heaven when you have good hardware. – Ken Olsen
+
+16.There is always one more bug to fix. – Ellen Ullman
+
+17.If debugging is the process of removing bugs, then programming must be the process of putting them in. – Sam Redwine
+
+18.Talk is cheap. Show me the code. ― Linus Torvalds
+
+19.Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
+
+20.If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
