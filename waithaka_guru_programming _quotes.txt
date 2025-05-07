@@ -1,0 +1,45 @@
+Programming Quotes
+==================
+
+1. Everything that can be written in JavaScript, will soon be written in JavaScript. - Waithaka Amos
+
+2. Garbage in garbage out. - George Feuchsel
+
+3. The only way to go fast, is to go well. - Robert C Martin
+
+4. Code never lies, comments sometimes do. - Ron Jeffries (Agile Coach)
+
+5. The best way to get a project done is to start sooner. - Jim Highsmith (Agile manifesto co-author)
+
+6. Good code is its own best documentation. - Steve McConnell
+
+7. Talk is cheap. Show me the code. - Linus Torvalds
+
+8. Programs must be written for people to read, and only incidentally for machine to execute. - Harold Abelson
+
+9. Simplicity is the soul of efficiency. - Austin Freeman.
+
+10. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Martin Fowler
+
+11. In order to understand recursion, one must understand recursion. _Anonymous Author
+
+12. Patterns are not algorithms.  - GangOfFour (Design Patterns)
+
+13. Software and cathedrals are much the same; first we build them, then we pray. - Sam Redwine
+
+14. You can't reuse classes that were not designed to be reused. - GangOfFour (Design Patterns)
+
+15. Walking on water and developing software from a specification are easy if both are frozen. - Edward V. Berard
+
+16. Favor object composition over class inheritance. - GangOfFour (Design Patterns)
+
+17.  If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger Dijikstra
+
+18. Code is addictive, only when you do it with a purpose - Waithaka Amos
+
+19. Program to an interface, not an implementation.  - GangOfFour (Design Patterns)
+
+20. There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
+
+
+ 
