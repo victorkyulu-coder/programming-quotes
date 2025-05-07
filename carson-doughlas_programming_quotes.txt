@@ -1,4 +1,5 @@
-#programming quotes
+#20 programming quotes that can motivate a developer to keep pushing on 
+ despite the sleepless nights
 
 1. Programming is like sex: one mistake and you have to support it for
    the rest of your life. by Michael Sinz
