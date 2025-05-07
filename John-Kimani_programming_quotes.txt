@@ -1,0 +1,39 @@
+"Programs must be written for people to read, and only incidentally for machines to execute." �C Harold Abelson
+
+"Priority unclock pontential" -john kimani
+
+"You think you know till you are asked about it"-john kimani
+
+"Part of being an aldult is accepting the things you wish weren't true"-John Kimani
+
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." �C Martin Fowler
+
+"The best error message is the one that never shows up." �C Thomas Fuchs
+
+"First, solve the problem. Then, write the code." �C John Johnson
+
+"Programming is the art of telling another human what one wants the computer to do." �C Donald Knuth
+
+"Code is like humor. When you have to explain it, it��s bad." �C Cory House
+
+"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." �C Brian Kernighan
+
+"There are only two hard things in Computer Science: cache invalidation and naming things." �C Phil Karlton
+
+"It��s not a bug��it��s an undocumented feature." �C Anonymous
+
+"The most disastrous thing that you can ever learn is your first programming language." �C Alan Kay
+
+"Programming isn't about what you know; it's about what you can figure out." �C Chris Pine
+
+"The only way to learn a new programming language is by writing programs in it." �C Dennis Ritchie
+
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday��s code." �C Dan Salomon
+
+"Good code is its own best documentation." �C Steve McConnell
+
+"Simplicity is the soul of efficiency." �C Austin Freeman
+
+"Before software can be reusable, it first has to be usable." �C Ralph Johnson
+
+"The proper use of comments is to compensate for our failure to express ourselves in code." �C Robert C. Martin (Uncle Bob)
