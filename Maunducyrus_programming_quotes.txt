@@ -1,0 +1,44 @@
+1. Any fool can write code that a computer can understand. Good programmers write code that humans can 	 understand. ― Martin Fowler
+
+2. Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
+3. Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
+
+4. Confusion is part of programming. ― Felienne Hermans
+
+5. No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray
+
+6. Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson
+
+7. when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create. - Lucky Stiff
+
+8. Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Woods
+
+9. Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. - Rick Cook
+
+10. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Flower
+
+11. I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck
+
+12. Given enough eyeballs, all bugs are shallow. - Linus Torvalds (open source)
+
+13. A clever person solves a problem. A wise person avoids it. — Albert Einstein
+  
+14. Being a good software engineer is 3% talent, 97% not being distracted by the internet. - Unknown (motivation)
+
+15. Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke
+
+16. Configuration is coding in a poorly designed programming language without tests, version control, or documentation.”
+Gregor Hohpe
+
+17. It’s the developers misunderstanding, not the expert knowledge, that gets released in production
+    @ziobrando
+
+18. The key to performance is elegance, not battalions of special cases.”
+    Jon Bentley and Doug McIlroy
+
+19. It is not usually until you’ve built and used a version of the program that you understand the issues well  	 enough to get the design right.
+Kernighan and Pike
+
+20. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. - Alan Perlis
+
