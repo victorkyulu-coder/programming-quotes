@@ -1,0 +1,42 @@
+
+1.Know how to learn. Then, want to learn - Katherine Johnson 
+
+2.Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems - Jamie Zawinski
+
+3.Programming isn’t about what you know; it’s about what you can figure out – Chris Pine
+
+4.Code is read much more often than it is written - Guido Van Rossum
+
+5.Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman
+
+6.Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
+
+7.Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
+
+8.Confusion is part of programming. ― Felienne Hermans
+
+9.It’s the developers misunderstanding, not the expert knowledge, that gets released in production - Zio Brado
+
+10.The key to performance is elegance, not battalions of special cases. - Jon Bently
+
+11.It is not usually until you’ve built and used a version of the program that you understand the issues well enough to get the design right. - Pike
+
+12.Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. - Alan Perlis
+
+13.The best performance improvement is the transition from the nonworking state to the working state. - John Ousterhuant
+
+14.You don’t pay engineers to write code, you pay them to understand subtleties and edges of the problem. The code is incidental - Dozda
+
+15.Scope doesn’t creep, understanding grows - Jeff Paton
+
+16.Code never lies, comments sometimes do. - Ron Jeffries (Agile Coach)
+
+17.The best way to get a project done is to start sooner. - Jim Highsmith (Agile manifesto co-author)
+
+18.Good code is its own best documentation. - Steve McConnell
+
+19.Talk is cheap. Show me the code. - Linus Torvalds
+
+20.Programs must be written for people to read, and only incidentally for machine to execute. - Harold Abelson
+
+
