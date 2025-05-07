@@ -1,0 +1,39 @@
+1. A language that doesn't affect the way you think about programming is not worth knowing. ― Alan J. Perlis
+
+2. The most important property of a program is whether it accomplishes the intention of its user. ― C.A.R.Hoare
+
+3. Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ― Christopher Thompson
+
+4. There is only one thing more painful than learning from experience and that is not learning from experience. ― Archibald McLeish
+
+5. Measuring programming progress by lines of code is like measuring aircraft building progress by weight. ― Bill Gates
+
+6. One of my most productive days was throwing away 1,000 lines of code. ― Ken Thompson
+
+7. A good programmer is someone who always looks both ways before crossing a one-way street. ― Doug Linder
+
+8. A language that doesn't affect the way you think about programming is not worth knowing. ― Alan Perlis
+
+9. Adding manpower to a late software project makes it later. ― Fred Brooks
+
+10. To replace programmers with robots, clients will have to accurately describe what they want.We're safe. — TheProgrammerMe
+
+11. Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine
+
+12. Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+13. The best programs are the ones written when the programmer is supposed to be working on something else. ― Melinda Varian
+
+14. For every complex problem, there is a solution that is simple, neat, and wrong. ― H.L Mencken
+
+15. There are only two kinds of languages: the ones people complain about and the ones nobody uses. ― Bjarne Stroustrup
+
+16. It is far, far easier to make a correct program fast than it is to make a fast program correct. ― Herb Sutter
+
+17. Code never lies, comments sometimes do. ― Ron Jeffries
+
+18. The most important single aspect of software development is to be clear about what you are trying to build. ― Bjarne Stroustrup
+
+19. Make it work, make it right, make it fast. – Kent Beck
+
+20. Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupery
