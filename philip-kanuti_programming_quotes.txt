@@ -1,20 +1,39 @@
 1. When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. so create. - Why The Lucky Stiff
+
 2. Programmes must be written for people to read and only incidentally for  machines to execute. - Harold Abelson
+
 3. Always code as if the guy who ends up maintaining your code will be violent psychopath who knows where you live. - John Woods
+
 4. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
+
 5. I'm not a great programmer; I'm just a good programmer with great habits. ― Kent Beck
+
 6. Truth can only be found in one place: the code. ― Robert C. Martin
+
 7. Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime. ― Muhammad Waseem
+
 8. How you look at it is pretty much how you'll see it ― Rasheed Ogunlaru
+
 9. That's the thing about people who think they hate computers. What they really hate is lousy programmers. ― Larry Niven
+
 10. A language that doesn't affect the way you think about programming is not worth knowing. ― Alan J. Perlis
+
 11. Fix the cause, not the symptom. – Steve Maguire
+
 12. Simplicity is the soul of efficiency. – Austin Freeman
+
 13. Make it work, make it right, make it fast. – Kent Beck
+
 14. Optimism is an occupational hazard of programming: feedback is the treament. - Kent Beck
+
 15. In order to be irreplaceable, one must always be different – Coco Chanel
+
 16. Java is to Javascript what car is to Carpet. – Chris Heilmann
+
 17. Knowledge is power – Francis Bacon
+
 18. Ruby is rubbish! PHP is phpantastic!. – Nikita Popov
+
 19. Code is like humor. When you have to explain it, it’s bad. – Cory House
+
 20. Experience is the name everyone gives to their mistakes. – Oscar Wilde
