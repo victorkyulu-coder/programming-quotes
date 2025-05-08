@@ -1,0 +1,61 @@
+// 20 PROGRAMING QUOTES.//
+
+1-     Programing isn't about what you know; it is about what you can figure out. 
+                CHRIS PINE.(LEARN TO PROGRAM)
+
+2-    Code is read much more often than it is written.
+                Guido van Rossum.(CREATOR OF PYTHON)     
+
+3-      You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.
+                John Romero.(VIDEO GAME DEVELOPER)
+
+4-     This was one of the best parts of being a     coder , and an artist: the thrill of being in the middle of creating something delightful. it's like the anticipation of eating freshly baked bread after its aroma fills the room.
+                Dr Joy Buolamwini.( UNMASKING AI)
+
+5-     Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
+                Patrick McKenzie.(SOFTWARE ENGINEER)
+
+6-     The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you  a great one.
+                Mario Fusco.(PRINCIPAL SOFTWARE ENGINEER AT RED HAT)
+
+7-     Code is like hummor.When you have to explain it, it’s bad.
+                Cory House.(REACT AND JAVASCRIPT SPECIALIST)
+
+8 -    The more I study , the more  insatiable do I feel my genius for it to be 
+                Ada Lovelace(The world's first computer programmer)         
+
+9-     Learning to write programs stretches your mind , and helps you think better, creates a way of thinking about things that I think is helpful in all domains.
+                Bill Gates (MICROSOFT CO-FOUNDER) 
+
+10-    The function of good software is to make the complex appear to be simple.
+                Grady Brooch(CHIEF SCIENTIST FOR SOFTWARE AT IBM RESEARCH) 
+
+11 -   Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 
+               Martin Fowler(Refactoring)          
+
+12 -   Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime 
+               David Leinweber.
+
+13-    Don’t comment bad code – rewrite it 
+                Brian Kernighan .
+
+14 -   No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first .
+                Andy Hunt.
+
+15 -   A programming language is for thinking about programs, not for expressing programs you’ve already thought of. It should be a pencil, not a pen.
+                Paul Graham.
+
+16 -   Sometimes it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday’s code .
+                Dan Salomon.
+
+17 -   Bad programmers worry about the code. Good programmers worry about data structures and their relationships 
+                Linus Torvalds.
+
+18 -   Debugging becomes significantly easier if you first admit that you are the problem.
+                William Laeder
+
+19-    It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.
+                 Steve McConnell
+
+20 -   Any fool can write code that a computer can understand. Good programmers write code that humans can understand 
+                 Martin Fowler
