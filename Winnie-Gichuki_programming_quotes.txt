@@ -1,0 +1,41 @@
+Programming quotes (category funny and witty)
+
+1.Programmers are tools for converting caffeine into code-Anonymous
+
+2.Walking on water and developing software from a specification are easy if both are frozen -Edward V Berard
+
+3.It's compiling - mostly I'm slacking off ;)- anonymous
+
+4.One of my most productive days was throwing away 1000 lines of code. -Ken Thompson
+
+5.Let's document all the bugs we have so that they become features" :)-anonymous
+
+6.If debugging is the process of removing bugs, then programming must be the process of putting them in. -Edsger Dijkstra.
+
+7.The trouble with programmers is that you can never tell what a programmer is doing until it's too late.-Seymoure Cray 
+
+8.The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.- Henry Petroski
+
+9.Deleted code is debugged code. -Jeff Sickel
+
+10.Walking on water and developing software from a specification are easy if both are frozen. -Edward V Berard
+
+11.If debugging is the process of removing software bugs, then programming must be the process of putting them in. -Edsger Dijkstra
+
+12.Software undergoes beta testing shortly before it’s released. Beta is Latin for “still doesn’t work. -Anonymous
+
+13.Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning. -Rick Cook
+
+14.It’s a curious thing about our industry: not only do we not learn from our mistakes, but we also don’t learn from our successes. -Keith Braithwaite
+
+15.There are only two kinds of programming languages: those people always bitch about and those nobody uses. -Bjarne Stroustrup
+
+16.In order to understand recursion, one must first understand recursion. -Anonymous
+
+17.The cheapest, fastest, and most reliable components are those that aren’t there. -Gordon Bell
+
+18.The best performance improvement is the transition from the nonworking state to the working state. -J. Osterhout
+
+19. i can't fiv your printer but i can code- Anonymous
+
+20. The best thing about a boolean is even if you are wrong, you are only off by a bit. (Anonymous)
