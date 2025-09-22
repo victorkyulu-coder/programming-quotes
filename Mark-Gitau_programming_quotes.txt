@@ -1,0 +1,39 @@
+1. Talk is cheap. Show me the code. – Linus Torvalds
+
+2. Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
+
+3. First, solve the problem. Then, write the code. – John Johnson
+
+4. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+
+5. Simplicity is the soul of efficiency. – Austin Freeman
+
+6. Before software can be reusable it first has to be usable. – Ralph Johnson
+
+7. Java is to JavaScript what car is to Carpet. – Chris Heilmann
+
+8. Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
+
+9. The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
+
+10. Truth can only be found in one place: the code. – Robert C. Martin
+
+11. Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard
+
+12. Testing leads to failure, and failure leads to understanding. – Burt Rutan
+
+13. Deleted code is debugged code. – Jeff Sickel
+
+14. Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine
+
+15. Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+16. The best thing about a boolean is even if you are wrong, you are only off by a bit. – Anonymous
+
+17. In order to be irreplaceable, one must always be different. – Coco Chanel (often quoted in programming context)
+
+18. Make it work, make it right, make it fast. – Kent Beck
+
+19. Programming is the art of telling another human what one wants the computer to do. – Donald Knuth
+
+20. Don’t comment bad code—rewrite it. – Brian Kernighan
